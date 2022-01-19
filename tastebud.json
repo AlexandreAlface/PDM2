@@ -1,0 +1,34 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "name": "Alface",
+            "username": "alface",
+            "password": "alface22"
+        }
+    ],
+    "Recipe": [
+        {
+            "id": null,
+            "title": null,
+            "description": null,
+            "likes": null,
+            "avalicao": null,
+            "comments": [
+                {
+                    "id": null,
+                    "user": null,
+                    "text": null,
+                    "userId": null
+                }
+            ]
+        }
+    ],
+    "Favourites": [
+        {
+            "idRecipe": null,
+            "userId": null
+        }
+    ]  
+
+}
