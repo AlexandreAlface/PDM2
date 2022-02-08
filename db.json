@@ -15,25 +15,25 @@
     ],
     "Recipe": [
         {
-            "id": null,
-            "title": null,
-            "description": null,
-            "likes": null,
-            "avalicao": null,
+            "id": 1,
+            "title": "Choco Frito",
+            "description": "Numa panela, ferva o choco em água temperada com sal, 1 folha de louro, pimenta, 2 dentes de alho. Ferva durante 20 minutos.Escorra o choco, retire-lhe a pele e corte-o em tiras com cerca de 1 cm.Numa tigela, junte o choco com o sumo do limão e o vinho. Deixe marinar durante 1 hora.Descasque as batatas, corte-as em palitos, coloque-as numa tigela e cubra-as com água.Seque bem as tiras de choco e passe-as pela farinha de milho. Numa frigideira, frite-as em óleo bem quente.Seque bem o excesso de óleo das tiras de choco com papel de cozinha.Escorra as batatas, enxugue e frite-as também em óleo quente numa frigideira ou na fritadeira.Sirva com a mistura de alfaces temperada com o azeite, o vinagre e o restante sal.",
+            "likes": 100,
+            "avalicao": 5,
             "comments": [
                 {
-                    "id": null,
-                    "user": null,
-                    "text": null,
-                    "userId": null
+                    "id": 1,
+                    "user": "Alface,
+                    "text": "Top",
+                    "userId": 1
                 }
             ]
         }
     ],
     "Favourites": [
         {
-            "idRecipe": null,
-            "userId": null
+            "idRecipe": 1,
+            "userId": 1
         }
     ]  
 
