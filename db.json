@@ -5,12 +5,6 @@
             "name": "Alface",
             "email": "alface.22@hotmail.com",
             "password": "alface22"
-        },
-        {
-            "id": 2,
-            "name": "Miguel Bosta Merda",
-            "email": "alface.22@hotmail.com",
-            "password": "alface22"
         }
     ],
     "Recipe": [
