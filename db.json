@@ -17,9 +17,10 @@
             "comments": [
                 {
                     "id": 1,
+                    "userId": 1,
                     "user": "Alface",
-                    "text": "Top",
-                    "userId": 1
+                    "text": "Top"
+                    
                 }
             ]
         }
