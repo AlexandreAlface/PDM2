@@ -18,6 +18,7 @@
                 {
                     "id": 1,
                     "userId": 1,
+                    "recipeId": 1,
                     "user": "Alface",
                     "text": "Top"
                     
