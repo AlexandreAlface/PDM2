@@ -29,7 +29,7 @@
     "Favourites": [
         {
             "id": 1,
-            "idRecipe": 1,
+            "recipeId": 1,
             "userId": 1
         }
     ]  
