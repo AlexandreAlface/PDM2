@@ -10,31 +10,24 @@
     "Recipe": [
         {
             "id": 1,
-            "title": "Omolete",
-            "description": "Bata os 2 ovos, pode ser na batedeira ou não.Após ter batido bem, coloque-o na frigideira já untada com óleo, acrescente o sal, o presunto picado em quadradinhos e as duas fatias de queijo (não precisa picar o queijo). Coloque os temperos a gosto, espere ficar firme, e vire o omelete. Está pronto um omelete delicioso, bom apetite!",
-            "likes": 10,
-            "rating": 5
-        },
-        {
-            "id": 2,
             "title": "Massa de Atum",
             "description": "Coza o esparguete a sua escolha. Depois de cozido, escorra a agua. De seguida junte o atum e adicone a maionese. Feito!",
             "likes": 78,
             "rating": 5
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "Pizza Congelada do Continete",
             "description": "Primeiro compre uma pizza marca continente, depois pré aqueça o forno a 180º durante 10 minutos, após o tempo meta a pizza e retires apoós o queijo derreter. Delicioso!",
             "likes": 100,
-            "rating": 69
+            "rating": 5
         },
         {
             "id": 3,
             "title": "Tremoços do Continete",
             "description": "Primeiro compre um jarro de tremoços do continente, de seguida coma o tremoço sem a casca. Sugestão coma com uma cerveja sagres fresquinha>",
-            "likes": 100,
-            "rating": 69
+            "likes": 69,
+            "rating": 5
         } 
     ]
 }
