@@ -26,15 +26,15 @@
          "id":3,
          "title":"Pizza Congelada do Continete",
          "description":"Primeiro compre uma pizza marca continente, depois pré aqueça o forno a 180º durante 10 minutos, após o tempo meta a pizza e retires apoós o queijo derreter. Delicioso!",
-         "likes":100,
-         "rating":69
+         "likes":69,
+         "rating":4
       },
       {
          "id":4,
          "title":"Tremoços do Continete",
          "description":"Primeiro compre um jarro de tremoços do continente, de seguida coma o tremoço sem a casca. Sugestão coma com uma cerveja sagres fresquinha>",
-         "likes":100,
-         "rating":69
+         "likes":48,
+         "rating":10
       }
    ]
 }
