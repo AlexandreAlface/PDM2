@@ -15,13 +15,5 @@
             "likes": 100,
             "rating": 5
         }
-    ],
-    "Favourites": [
-        {
-            "id": 1,
-            "recipeId": 1,
-            "userId": 1
-        }
-    ]  
-
+    ]
 }
